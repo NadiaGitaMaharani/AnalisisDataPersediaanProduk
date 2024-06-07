@@ -32,5 +32,13 @@ Pada tanggal 2024-06-10, Customer D mengembalikan 1 unit Produk D karena salah p
 Persediaan:
 Menghitung stok akhir dari masing-masing produk dengan memperhitungkan semua transaksi di atas.
 
-### a. Manajer Gudang ingin mengetahui 'Pergerakan Stok Harian'
-### b. 
+### a. PT XYZ memiliki 4 ruang penyimpanan untuk menyimpan produk A, B, C, dan D. Di antara keempat ruangan tersebut, terdapat satu ruangan yang memiliki luas ruangan terbesar. Sehingga Manajer Gudang membutuhkan informasi 'Pergerakan Stok Harian' untuk mempertimbangkan persediaan apa yang akan diletakkan di gudang penyimpanan terluas tersebut.
+![Figure_1](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/4f81a1d5-31d8-4622-84eb-9ac9bb38dafd)
+Interpretasi : Dari linechart tersebut, dapat dilihat bahwa ternyata produk yang membutuhkan penyimpanan terluas adalah Produk D.
+
+### b. PT XYZ memiliki kebijakan untuk selalu menyimpan persediaan minimal 5 unit dalam gudang. Manajer pembeluan membutuhkan informasi "Stok Akhir Produk" untuk mengetahui persediaan produk yang kurang dari 5 unit untuk dilakukan pembelian.
+![Figure_2](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/2fee648d-bc38-4d69-8d2e-e5bc62be02ce)
+Interpretasi : Dari histogram tersebut, dapat dilihat bahwa stok Produk B hanya 2 unit sehingga Manajer Pembelian harus melakukan pembelian.
+
+### c. 
+![Figure_3](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/bbd45368-11f7-44a8-9725-bc553507ca6b)
