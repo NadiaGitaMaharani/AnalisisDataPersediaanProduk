@@ -1,0 +1,4 @@
+ID Retur Penjualan,Tanggal,ID Penjualan,ID Produk,Nama Produk,Jumlah,Alasan
+1,2024-06-06,1,P001,Produk A,1,Produk tidak sesuai
+2,2024-06-09,3,P003,Produk C,2,Kualitas buruk
+3,2024-06-10,4,P004,Produk D,1,Salah produk

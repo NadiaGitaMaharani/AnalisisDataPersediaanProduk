@@ -1,0 +1,5 @@
+ID Produk,Nama Produk,Stok Awal,Pembelian,Retur Pembelian,Penjualan,Retur Penjualan,Stok Akhir
+P001,Produk A,0,10,2,3,1,6
+P002,Produk B,0,5,1,2,0,2
+P003,Produk C,0,8,0,5,2,5
+P004,Produk D,0,15,5,4,1,7

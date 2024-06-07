@@ -1,0 +1,5 @@
+ID Penjualan,Tanggal,Customer,ID Produk,Nama Produk,Jumlah,Harga Satuan,Total Harga
+1,2024-06-02,Customer A,P001,Produk A,3,12000,36000
+2,2024-06-04,Customer B,P002,Produk B,2,18000,36000
+3,2024-06-06,Customer C,P003,Produk C,5,22000,110000
+4,2024-06-08,Customer D,P004,Produk D,4,27000,108000

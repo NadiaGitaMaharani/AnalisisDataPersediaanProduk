@@ -1,0 +1,4 @@
+ID Retur Pembelian,Tanggal,ID Pembelian,ID Produk,Nama Produk,Jumlah,Alasan
+1,2024-06-05,1,P001,Produk A,2,Produk rusak
+2,2024-06-08,2,P002,Produk B,1,Salah kirim
+3,2024-06-09,4,P004,Produk D,5,Tidak sesuai pesanan

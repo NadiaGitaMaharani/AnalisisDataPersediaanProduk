@@ -1,0 +1,5 @@
+ID Pembelian,Tanggal,Supplier,ID Produk,Nama Produk,Jumlah,Harga Satuan,Total Harga
+1,2024-06-01,Supplier A,P001,Produk A,10,10000,100000
+2,2024-06-03,Supplier B,P002,Produk B,5,15000,75000
+3,2024-06-05,Supplier C,P003,Produk C,8,20000,160000
+4,2024-06-07,Supplier D,P004,Produk D,15,25000,375000
