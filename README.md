@@ -1,4 +1,3 @@
-# PengkodeanDanPemrograman-Python-AnalisisData
 # TUGAS PENGKODEAN DAN PEMROGRAMAN KELAS F - NADIA GITA MAHARANI
 
 # DIBUAT OLEH
