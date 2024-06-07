@@ -34,7 +34,7 @@ Persediaan:
 Menghitung stok akhir dari masing-masing produk dengan memperhitungkan semua transaksi di atas.
 
 # LANGKAH ANALISIS DATA
-Berikut adalah langkah-langkah analisis data berdasarkan semua kode yang telah diberikan:
+
 1. Pengumpulan Data
    - Tabel Pembelian:
      - Mengumpulkan data tentang jumlah dan jenis produk yang dibeli dari berbagai pemasok beserta tanggal pembelian dan harga satuan.
