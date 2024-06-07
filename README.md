@@ -2,7 +2,9 @@
 
 # DIBUAT OLEH
 Nama : Nadia Gita Maharani
+
 NIM : 12030122130100
+
 Kelas : F
 
 # DATA
