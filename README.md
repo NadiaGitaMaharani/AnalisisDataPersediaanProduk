@@ -32,6 +32,33 @@ Pada tanggal 2024-06-10, Customer D mengembalikan 1 unit Produk D karena salah p
 Persediaan:
 Menghitung stok akhir dari masing-masing produk dengan memperhitungkan semua transaksi di atas.
 
+# LANGKAH ANALISIS DATA
+Berikut adalah langkah-langkah analisis data berdasarkan semua kode yang telah diberikan:
+1. Pengumpulan Data
+   - Tabel Pembelian:
+     - Mengumpulkan data tentang jumlah dan jenis produk yang dibeli dari berbagai pemasok beserta tanggal pembelian dan harga satuan.
+   - Tabel Retur Pembelian:
+     - Mengumpulkan data tentang jumlah dan jenis produk yang dikembalikan ke pemasok beserta tanggal pengembalian dan alasannya.
+   - Tabel Penjualan:
+     - Mengumpulkan data tentang jumlah dan jenis produk yang dijual kepada pelanggan beserta tanggal penjualan dan harga jual satuan.
+   - Tabel Retur Penjualan:
+     - Mengumpulkan data tentang jumlah dan jenis produk yang dikembalikan oleh pelanggan beserta tanggal pengembalian dan alasannya.
+   - Tabel Persediaan:
+     - Mengumpulkan data tentang stok akhir dari setiap produk setelah memperhitungkan semua transaksi di atas.
+2. Persiapan Data
+   - Menggabungkan data dari tabel-tabel tersebut menjadi satu set data yang terstruktur dan bersih untuk analisis.
+   - Menghitung total pembelian, penjualan, retur pembelian, dan retur penjualan untuk setiap produk.
+3. Visualisasi Data
+   - Bar Plot untuk Transaksi Produk:
+     - Menggunakan diagram batang untuk menampilkan jumlah pembelian, retur pembelian, penjualan, dan retur penjualan untuk setiap produk.
+   - Bar Plot untuk Stok Akhir:
+     - Menggunakan diagram batang untuk menampilkan stok akhir dari setiap produk.
+4. Analisis Pergerakan Stok Harian
+   - Membuat diagram garis untuk menampilkan perubahan stok harian dari setiap produk.
+   - Menganalisis bagaimana stok berubah setiap hari berdasarkan transaksi yang terjadi.
+
+Dengan mengikuti langkah-langkah di atas, Anda dapat melakukan analisis data yang komprehensif menggunakan tabel pembelian, retur pembelian, penjualan, retur penjualan, dan persediaan. Visualisasi data membantu dalam memahami pola dan tren dalam transaksi dan persediaan produk.
+
 ### a. PT XYZ memiliki 4 ruang penyimpanan untuk menyimpan produk A, B, C, dan D. Di antara keempat ruangan tersebut, terdapat satu ruangan yang memiliki luas ruangan terbesar. Sehingga Manajer Gudang membutuhkan informasi 'Pergerakan Stok Harian' untuk mempertimbangkan persediaan apa yang akan diletakkan di gudang penyimpanan terluas tersebut.
 ![Figure_1](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/4f81a1d5-31d8-4622-84eb-9ac9bb38dafd)
 Interpretasi : Dari linechart tersebut, dapat dilihat bahwa ternyata produk yang membutuhkan penyimpanan terluas adalah Produk D.
@@ -40,5 +67,6 @@ Interpretasi : Dari linechart tersebut, dapat dilihat bahwa ternyata produk yang
 ![Figure_2](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/2fee648d-bc38-4d69-8d2e-e5bc62be02ce)
 Interpretasi : Dari histogram tersebut, dapat dilihat bahwa stok Produk B hanya 2 unit sehingga Manajer Pembelian harus melakukan pembelian.
 
-### c. 
+### c. Produk apa yang perlu dipertimbangkan kembali pemasoknya karena terlalu banyak retur pembelian yang dilakukan?
 ![Figure_3](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/bbd45368-11f7-44a8-9725-bc553507ca6b)
+Interpretasi : Dari histogram tersebut, dapat dilihat bahwa retur pembelian terbanyak dilakukan atas Produk A, walaupun jika dilihat frekuensi tertinggi adalah Produk D. Produk A dilakukan retur pembelian 2 unit dari 10 unit yang dibeli (1 dari 2 unit), sedangkan Produk D dilakukan retur pembelian 5 unit dari 15 unit yang dibeli (1 dari 3 unit).
