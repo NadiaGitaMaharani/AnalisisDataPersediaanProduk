@@ -60,6 +60,7 @@ Menghitung stok akhir dari masing-masing produk dengan memperhitungkan semua tra
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat melakukan analisis data yang komprehensif menggunakan tabel pembelian, retur pembelian, penjualan, retur penjualan, dan persediaan. Visualisasi data membantu dalam memahami pola dan tren dalam transaksi dan persediaan produk.
 
+# KASUS
 ### a. PT XYZ memiliki 4 ruang penyimpanan untuk menyimpan produk A, B, C, dan D. Di antara keempat ruangan tersebut, terdapat satu ruangan yang memiliki luas ruangan terbesar. Sehingga Manajer Gudang membutuhkan informasi 'Pergerakan Stok Harian' untuk mempertimbangkan persediaan apa yang akan diletakkan di gudang penyimpanan terluas tersebut.
 ![Figure_1](https://github.com/NadiaGitaMaharani/PengkodeanDanPemrograman-Python-AnalisisData/assets/167200610/4f81a1d5-31d8-4622-84eb-9ac9bb38dafd)
 Interpretasi : Dari linechart tersebut, dapat dilihat bahwa ternyata produk yang membutuhkan penyimpanan terluas adalah Produk D.
